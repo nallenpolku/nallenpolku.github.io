@@ -3129,7 +3129,7 @@
 			margin-left: auto;
 			margin-right: auto;
 			text-transform: uppercase;
-			width: 25em;
+			max-width: 25em;
 		}
 
 		@media screen and (max-width: 1280px) {
