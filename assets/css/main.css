@@ -3126,7 +3126,10 @@
 			color: #aaa;
 			font-size: 1.5em;
 			margin-bottom: 1.75em;
+			margin-left: auto;
+			margin-right: auto;
 			text-transform: uppercase;
+			width: 25em;
 		}
 
 		@media screen and (max-width: 1280px) {
